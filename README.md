@@ -16,7 +16,6 @@ If you see papers missing from the list, please send me an email or a pull reque
 	* [Multi-Agent Tasks](#multiagent)
 	* [SLAM](#slam)
 	* [Lidar](#lidar)
-	* [awesome repo](#awesome)
 * [Datasets](#datasets)
 * [Simulators](#simulators)
 * [MISC](#misc)
@@ -78,11 +77,6 @@ ICML, 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.
 * **Embodied Question Answering** <br>
 *Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra* <br>
 CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.11543) [[Code]](https://github.com/facebookresearch/EmbodiedQA) [[Website]](https://embodiedqa.org/)
-
-### <a name="awesome"></a> Awesome repo
-* **Curiosity-driven Exploration by Self-supervised Prediction** <br>
-*Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
-ICML, 2017. [[Paper]](https://arxiv.org/pdf/1705.05363.pdf) [[Code]](https://github.com/pathak22/noreward-rl) [[Website]](https://pathak22.github.io/noreward-rl/)
 
 ## <a name="datasets"></a> Datasets
 * **A Dataset for Developing and Benchmarking Active Vision** <br>
