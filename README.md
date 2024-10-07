@@ -3,7 +3,7 @@
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [awesome-enbodied-vision](https://github.com/ChanganVR/awesome-embodied-vision).
 
-If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
+This repository was established by the [POSS](http://www.poss.pku.edu.cn/), and the major contributor is [Haotian Zhou](zhouhaotian19@pku.edu.cn), [Jianghuan Xu](xjhcgdk@stu.pku.edu.cn) and [Xiaole Wang](w2576827927@stu.pku.edu.cn). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
 ## Table of Content
 
@@ -68,7 +68,7 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://git
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.com/allenai/cordial-sync) [[Website]](https://unnat.github.io/cordial-sync/)
 
 * **Multi-Object Navigation in real environments using hybrid policies** <br>
-*Assem Sadek, Guillaume Bono, Boris Chidlovskii, Atilla Baskurt, Christian Wolf <br>
+*Assem Sadek, Guillaume Bono, Boris Chidlovskii, Atilla Baskurt, Christian Wolf* <br>
 ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2401.13800)
 
 ### <a name="slam"></a> SLAM
