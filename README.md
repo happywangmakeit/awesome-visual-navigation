@@ -67,6 +67,10 @@ CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://git
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Ali Farhadi, Svetlana Lazebnik, Aniruddha Kembhavi, Alexander Schwing* <br>
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.com/allenai/cordial-sync) [[Website]](https://unnat.github.io/cordial-sync/)
 
+* **Multi-Object Navigation in real environments using hybrid policies** <br>
+*Assem Sadek, Guillaume Bono, Boris Chidlovskii, Atilla Baskurt, Christian Wolf <br>
+ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2401.13800)
+
 ### <a name="slam"></a> SLAM
 
 * **Towards Distraction-Robust Active Visual Tracking** <br>
