@@ -1,9 +1,9 @@
 # Awesome Visual Navigation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of embodied vision resources.
+> A curated list of visual navigation resources.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [awesome-vln](https://github.com/daqingliu/awesome-vln).
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing and [awesome-enbodied-vision](https://github.com/ChanganVR/awesome-embodied-vision).
 
-By [Changan Chen](https://changan.io) (changan@cs.utexas.edu), Department of Computer Science at the University of Texas at Austin, with help from [Tushar Nagarajan](https://tushar-n.github.io/), [Santhosh Kumar Ramakrishnan](https://srama2512.github.io/) and [Yinfeng Yu](https://yyf17.github.io/). If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
+If you see papers missing from the list, please send me an email or a pull request (format see [below](#contributing)).
 
 ## Table of Content
 
@@ -40,9 +40,9 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 *Saurabh Gupta, Varun Tolani, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik* <br>
 CVPR, 2017. [[Paper]](https://arxiv.org/abs/1702.03920)
 
-* **Habitat: A Platform for Embodied AI Research** <br>
-*Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
+// * **Habitat: A Platform for Embodied AI Research** <br>
+// *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
+// ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
 * **SplitNet: Sim2Sim and Task2Task Transfer for Embodied Visual Navigation** <br>
 *Daniel Gordon, Abhishek Kadian, Devi Parikh, Judy Hoffman, Dhruv Batra* <br>
