@@ -9,17 +9,14 @@ If you see papers missing from the list, please send me an email or a pull reque
 
 * [Papers](#papers)
 	* [PointGoal Navigation](#pointgoal)
-	* [Audio-Visual Navigation](#audiogoal)
 	* [ObjectGoal Navigation](#objectgoal)
 	* [ImageGoal Navigation](#imagegoal)
 	* [Vision-Language Navigation](#vln)
-	* [Embodied Question Answering](#eqa)
+	* [Social ](#social)
 	* [Multi-Agent Tasks](#multiagent)
-	* [Active Visual Tracking](#av-tracking)
-	* [Visual Exploration](#visual_exploration)
-	* [Visual Interactions](#visual_interaction)
-	* [Rearrangement](#rearrangement)
-	* [Sim2real Transfer](#sim2real_transfer)
+	* [SLAM](#slam)
+	* [Lidar](#lidar)
+	* [awesome repo](#awesome)
 * [Datasets](#datasets)
 * [Simulators](#simulators)
 * [MISC](#misc)
@@ -37,17 +34,9 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="pointgoal"></a> PointGoal Navigation
 
-// * **Habitat: A Platform for Embodied AI Research** <br>
-// *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-// ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
-
-
-
-### <a name="audiogoal"></a> Audio-Visual Navigation
-
-* **Semantic Audio-Visual Navigation** <br>
-*Changan Chen, Ziad Al-Halah, Kristen Grauman* <br>
-CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces/tree/main/ss_baselines/savi) [[Website]](http://vision.cs.utexas.edu/projects/semantic_audio_visual_navigation/)
+* **Habitat: A Platform for Embodied AI Research** <br>
+*Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
+ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
@@ -67,6 +56,11 @@ ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://git
 *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
 CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.07280) [[Code]](https://github.com/peteanderson80/Matterport3DSimulator) [[Website]](https://bringmeaspoon.org)
 
+### <a name="social"></a> Social
+
+* **Semantic Audio-Visual Navigation** <br>
+*Changan Chen, Ziad Al-Halah, Kristen Grauman* <br>
+CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces/tree/main/ss_baselines/savi) [[Website]](http://vision.cs.utexas.edu/projects/semantic_audio_visual_navigation/)
 
 ### <a name="multiagent"></a> Multi-Agent Tasks
 
@@ -74,68 +68,21 @@ CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.07280) [[Code]](https://github.
 *Unnat Jain\*, Luca Weihs\*, Eric Kolve, Ali Farhadi, Svetlana Lazebnik, Aniruddha Kembhavi, Alexander Schwing* <br>
 ECCV, 2020. [[Paper]](https://arxiv.org/abs/2007.04979) [[Code]](https://github.com/allenai/cordial-sync) [[Website]](https://unnat.github.io/cordial-sync/)
 
-### <a name="av-tracking"></a> Active Visual Tracking
+### <a name="slam"></a> SLAM
 
 * **Towards Distraction-Robust Active Visual Tracking** <br>
 *Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
 ICML, 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.com/zfw1226/active_tracking_rl/tree/distractor) [[Website]](https://sites.google.com/view/distraction-robust-avt)
 
-
-### <a name="visual_exploration"></a> Visual Exploration
-* **Curiosity-driven Exploration by Self-supervised Prediction** <br>
-*Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
-ICML, 2017. [[Paper]](https://arxiv.org/pdf/1705.05363.pdf) [[Code]](https://github.com/pathak22/noreward-rl) [[Website]](https://pathak22.github.io/noreward-rl/)
-
-### <a name="eqa"></a> Embodied Question Answering
+### <a name="lidar"></a> Lidar
 * **Embodied Question Answering** <br>
 *Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra* <br>
 CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.11543) [[Code]](https://github.com/facebookresearch/EmbodiedQA) [[Website]](https://embodiedqa.org/)
 
-
-### <a name="visual_interaction"></a> Visual Interactions
-
-* **IQA: Visual Question Answering in Interactive Environments** <br>
-*Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, and Ali Farhadi* <br>
-CVPR, 2018. [[Paper]](https://arxiv.org/abs/1712.03316) [[Code]](https://github.com/danielgordon10/thor-iqa-cvpr-2018) [[Website]](https://prior.allenai.org/projects/iqa)
-
-### <a name="rearrangement"></a> Rearrangement
-
-* **Visual Room Rearrangement** <br>
-*Luca Weihs, Matt Deitke, Aniruddha Kembhavi, and Roozbeh Mottaghi* <br>
-CVPR, 2021. [[Paper]](https://arxiv.org/abs/2103.16544) [[Code]](https://github.com/allenai/ai2thor-rearrangement) [[Website]](https://ai2thor.allenai.org/rearrangement)
-
-* **Habitat 2.0: Training Home Assistants to Rearrange their Habitat** <br>
-*Andrew Szot, Alex Clegg, Eric Undersander, Erik Wijmans, Yili Zhao, John Turner, Noah Maestre, Mustafa Mukadam, Devendra Chaplot, Oleksandr Maksymets, Aaron Gokaslan, Vladimir Vondrus, Sameer Dharur, Franziska Meier, Wojciech Galuba, Angel Chang, Zsolt Kira, Vladlen Koltun, Jitendra Malik, Manolis Savva, Dhruv Batra* <br>
-NeurIPS 2021. [[Paper]](https://arxiv.org/abs/2106.14405) [[Code]](https://github.com/facebookresearch/habitat-lab/)
-
-* **🏘️ ProcTHOR: Large-Scale Embodied AI Using Procedural Generation** <br>
-*Matt Deitke, Eli VanderBilt, Alvaro Herrasti, Luca Weihs, Jordi Salvador, Kiana Ehsani, Winson Han, Eric Kolve, Ali Farhadi, Aniruddha Kembhavi, Roozbeh Mottaghi* <br>
-arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https://procthor.allenai.org/)
-
-* **TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification** <br>
-*Mingdong Wu/*, Fangwei Zhong/*, Yulong Xia, Hao Dong* <br>
-NeurIPS, 2022. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/cf5a019ae9c11b4be88213ce3f85d85c-Paper-Conference.pdf) [[Website]](https://sites.google.com/view/targf)
-
-* **Rearrange Indoor Scenes for Human-Robot Co-Activity** <br>
-*Weiqi Wang/*, Zihang Zhao/*, Ziyuan Jiao/*, Yixin Zhu, Song-Chun Zhu, Hangxin Liu* <br>
-ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2303.05676.pdf) [[Website]](https://sites.google.com/view/coactivity)
-
-### <a name="sim2real_transfer"></a> Sim-to-real Transfer
-* **Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World** <br>
-*Josh Tobin, Rachel Fong, Alex Ray, Jonas Schneider, Wojciech Zaremba, Pieter Abbeel* <br>
-IROS, 2017. [[Paper]](https://arxiv.org/abs/1703.06907)
-
-* **Sim-to-Real Transfer for Vision-and-Language Navigation** <br>
-*Peter Anderson, Ayush Shrivastava, Joanne Truong, Arjun Majumdar, Devi Parikh, Dhruv Batra, Stefan Lee* <br>
-CoRL, 2020. [[Paper]](https://arxiv.org/abs/2011.03807)
-
-* **RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real** <br>
-*Kanishka Rao, Chris Harris, Alex Irpan, Sergey Levine, Julian Ibarz, Mohi Khansari* <br>
-CVPR, 2020. [[Paper]](https://arxiv.org/pdf/2006.09001.pdf)
-
-* **Bi-directional Domain Adaptation for Sim2Real Transfer of Embodied Navigation Agents** <br>
-*Joanne Truong, Sonia Chernova, Dhruv Batra* <br>
-RA-L, 2021. [[Paper]](https://arxiv.org/pdf/2011.12421.pdf)
+### <a name="awesome"></a> Awesome repo
+* **Curiosity-driven Exploration by Self-supervised Prediction** <br>
+*Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell* <br>
+ICML, 2017. [[Paper]](https://arxiv.org/pdf/1705.05363.pdf) [[Code]](https://github.com/pathak22/noreward-rl) [[Website]](https://pathak22.github.io/noreward-rl/)
 
 ## <a name="datasets"></a> Datasets
 * **A Dataset for Developing and Benchmarking Active Vision** <br>
