@@ -71,7 +71,7 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.
 
 * **Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks** <br> *Fang et al., Stanford* <br> *nan, SUNCG* <br> CVPR, 2019.0. [[Code]](no official) [[Project]](https://sites.google.com/view/scene-memory-transformer) *star 188*
 
-* **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br> *Zhu et al., Stanford* <br> *nan, nan* <br> ICRA, 2017.0. [[Code]](https://github.com/caomw/icra2017-visual-navigation-1) [[Project]](Video: https://www.youtube.com/watch?v=SmBxMDiOrvs&ab_channel=AllenInstituteforAI) *star 1845*
+* **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br> *Zhu et al., Stanford* <br> *nan, nan* <br> ICRA, 2017.0. [[Code]](https://github.com/caomw/icra2017-visual-navigation-1) [[Video]](https://www.youtube.com/watch?v=SmBxMDiOrvs&ab_channel=AllenInstituteforAI) *star 1845*
 
 * **Visual Object Search by Learning Spatial Context** <br> *Druon et al., Paul Sabatier University* <br> *nan, AI2-THOR* <br> RAL, 2020.0. [[Code]](nan) [[Project]](nan) *star 73*      
 
