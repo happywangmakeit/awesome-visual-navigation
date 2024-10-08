@@ -33,10 +33,6 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 
 ### <a name="pointgoal"></a> PointGoal Navigation
 
-* **Habitat: A Platform for Embodied AI Research** <br>
-*Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
-ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
-
 * **Learning to Explore Using Active Neural SLAM** *cited: 500*<br> *Chaplot et al., Carnegie Mellon University* <br> *Habitat, Gibson&MP3D* <br> ICLR, 2020.0. [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Project]](https://devendrachaplot.github.io/projects/Neural-SLAM)
 
 * **Safe-Nav: learning to prevent PointGoal navigation failure in unknown environments** *cited: 7*<br> *Jin et al., Tianjin University* <br> *nan, nan* <br> Complex & Intelligent Systems, 2022.0. [[Code]](nan) [[Project]](nan)
@@ -49,10 +45,6 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.
 
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
-* **Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning** <br>
-*Mitchell Wortsman, Kiana Ehsani, Mohammad Rastegari, Ali Farhadi, Roozbeh Mottaghi* <br>
-CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.com/allenai/savn) [[Website]](https://prior.allenai.org/projects/savn)
-
 * **Object Goal Navigation using Goal-Oriented Semantic Exploration** *cited: 425*<br> *Chaplot et al., Carnegie Mellon University* <br> *Habitat, Gibson&MP3D* <br> NIPS, 2020.0. [[Code]](https://github.com/devendrachaplot/Object-Goal-Navigation) [[Project]](https://devendrachaplot.github.io/projects/semantic-exploration)
 
 * **PONI: Potential Functions for ObjectGoal Navigation with Interaction-free Learning** *cited: 114*<br> *Ramakrishnan et al., Meta* <br> *Habitat, Gibson&MP3D* <br> CVPR, 2022.0. [[Code]](https://github.com/srama2512/PONI) [[Project]](https://vision.cs.utexas.edu/projects/poni/)
@@ -64,8 +56,6 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.
 * **SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World** *cited: 1*<br> *Ehsani et al., Allen Institute for AI* <br> *AI2-THOR, SPOC* <br> CVPR, 2024.0. [[Code]](https://github.com/allenai/spoc-robot-training) [[Project]](https://spoc-robot.github.io/)
 
 * **TDANet: Target-Directed Attention Network For Object-Goal Visual Navigation With Zero-Shot Ability** *cited: 0*<br> *Lian et al., PKU* <br> *AI2THOR, v1.0.1* <br> RAL, 2024.0. [[Code]](no) [[Project]](no)
-
-* **nan** *cited: nan*<br> *nan, nan* <br> *nan, nan* <br> nan, nan. [[Code]](nan) [[Project]](nan)
 
 * **Exploitation-Guided Exploration for Semantic Embodied Navigation SLAM** *cited: 0*<br> *Wasserman et al., University of Illinois, Meta* <br> *Habitat, HM3D* <br> Arxiv, 2023.0. [[Code]](https://github.com/Jbwasse2/XGX) [[Project]](https://xgxvisnav.github.io/)
 
