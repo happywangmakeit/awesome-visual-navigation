@@ -25,8 +25,9 @@ When sending PRs, please put the new paper at the correct chronological position
 
 ```
 * **Paper Title** <br>
-*Author(s)* <br>
-Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
+*Author(s), Organization* <br>
+*Simulator, Data* <br>
+Conference, Year. [[Paper]](link) [[Code]](link) [[Project]](link)
 ```
 
 ## <a name="papers"></a> Papers
