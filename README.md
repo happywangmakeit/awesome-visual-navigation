@@ -37,6 +37,16 @@ Conference, Year. [[Paper]](link) [[Code]](link) [[Website]](link)
 *Manolis Savva, Abhishek Kadian, Oleksandr Maksymets, Yili Zhao, Erik Wijmans, Bhavana Jain, Julian Straub, Jia Liu, Vladlen Koltun, Jitendra Malik, Devi Parikh, Dhruv Batra* <br>
 ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.com/facebookresearch/habitat-api) [[Website]](https://aihabitat.org/)
 
+* **Learning to Explore Using Active Neural SLAM** *cited: 500*<br> *Chaplot et al., Carnegie Mellon University* <br> *Habitat, Gibson&MP3D* <br> ICLR, 2020.0. [[Code]](https://github.com/devendrachaplot/Neural-SLAM) [[Project]](https://devendrachaplot.github.io/projects/Neural-SLAM)
+
+* **Safe-Nav: learning to prevent PointGoal navigation failure in unknown environments** *cited: 7*<br> *Jin et al., Tianjin University* <br> *nan, nan* <br> Complex & Intelligent Systems, 2022.0. [[Code]](nan) [[Project]](nan)
+
+* **Is Mapping Necessary for Realistic PointGoal Navigation?** *cited: 31*<br> *Partsey et al., Ukrainian Catholic University* <br> *nan, nan* <br> CVPR, 2023.0. [[Code]](https://github.com/rpartsey/pointgoal-navigation) [[Project]](https://rpartsey.github.io/pointgoalnav/)   
+
+* **TTA-Nav: Test-time Adaptive Reconstruction for Point-Goal Navigation under Visual Corruptions** *cited: 1*<br> *nan, nan* <br> *nan, nan* <br> Arxiv, 2024.0. [[Code]](nan) [[Project]](nan)
+
+* **Is Mapping Necessary for Realistic PointGoal Navigation?** *cited: 35*<br> *Partsey et al., Ukrainian Catholic University* <br> *nan, nan* <br> CVPR, 2022.0. [[Code]](nan) [[Project]](nan)
+
 ### <a name="objectgoal"></a> ObjectGoal Navigation
 
 * **Learning to Learn How to Learn: Self-Adaptive Visual Navigation Using Meta-Learning** <br>
@@ -57,7 +67,7 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.
 
 * **nan** *cited: nan*<br> *nan, nan* <br> *nan, nan* <br> nan, nan. [[Code]](nan) [[Project]](nan)
 
-* **Exploitation-Guided Exploration for Semantic Embodied Navigation SLAM ** *cited: 0*<br> *Wasserman et al., University of Illinois, Meta* <br> *Habitat, HM3D* <br> Arxiv, 2023.0. [[Code]](https://github.com/Jbwasse2/XGX) [[Project]](https://xgxvisnav.github.io/)
+* **Exploitation-Guided Exploration for Semantic Embodied Navigation SLAM** *cited: 0*<br> *Wasserman et al., University of Illinois, Meta* <br> *Habitat, HM3D* <br> Arxiv, 2023.0. [[Code]](https://github.com/Jbwasse2/XGX) [[Project]](https://xgxvisnav.github.io/)
 
 * **RoboHop: Segment-based Topological Map Representation for Open-World Visual Navigation** *cited: 4*<br> *Garg et al., nan* <br> *Habitat, GibsonEnv&PanoContext&GPCampus* <br> ICRA, 2024.0. [[Code]](No) [[Project]](https://oravus.github.io/RoboHop/)
 
@@ -115,48 +125,68 @@ CVPR, 2019. [[Paper]](https://arxiv.org/abs/1812.00971) [[Code]](https://github.
 
 * **GOAT: Go to anything** *cited: 29*<br> *Chang et al., UIUC Carnegie Georgia …* <br> *nan, 不太需要训练data，自采真实数据测试* <br> Arxiv, 2023.0. [[Code]](https://github.com/facebookresearch/home-robot) [[Project]](https://theophilegervet.github.io/projects/goat/)
 
-* **nan** *cited: nan*<br> *nan, nan* <br> *nan, nan* <br> nan, nan. [[Code]](nan) [[Project]](nan)
-
 * **OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models** *cited: nan*<br> *Kuang et al., PKU* <br> *nan, nan* <br> nan, 2024.0. [[Code]](https://github.com/yxKryptonite/OpenFMNav) [[Project]](nan)
 
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
-* **Semi-Parametric Topological Memory for Navigation** <br>
-*Nikolay Savinov\*, Alexey Dosovitskiy\*, Vladlen Koltun* <br>
-ICLR, 2018. [[Paper]](https://arxiv.org/pdf/1803.00653.pdf) [[Code]](https://github.com/nsavinov/SPTM) [[Website]](https://sites.google.com/view/SPTM)
+* **No RL, No Simulation: Learning to Navigate without Navigating** *cited: 64*<br> *Hahn et al., Georgia Institute of Technology* <br> *Habitat, NRNS本身* <br> NIPS, 2021.0. [[Code]](https://github.com//meera1hahn/NRNS) [[Project]](https://meerahahn.github.io/nrns/)
+
+* **Last-Mile Embodied Visual Navigation** *cited: 24*<br> *Wasserman et al., University of Illinois, Meta* <br> *Habitat, NRNS* <br> CoRL, 2022.0. [[Code]](https://github.com/Jbwasse2/SLING) [[Project]](https://jbwasse2.github.io/portfolio/SLING/)
+
+* **Neural Topological SLAM for Visual Navigation** *cited: 261*<br> *Chaplot et al., Carnegie Mellon University* <br> *Habitat, Gibson* <br> CVPR, 2020.0. [[Code]](No) [[Project]](https://devendrachaplot.github.io/projects/Neural-Topological-SLAM)
+
+* **Topological Semantic Graph Memory for Image-Goal Navigation** *cited: 26*<br> *Kim et al., Seoul National University* <br> *nan, nan* <br> CoRL (Oral), 2022.0. [[Code]](https://github.com/rllab-snu/TopologicalSemanticGraphMemory?tab=readme-ov-file) [[Project]](https://bareblackfoot.github.io/TopologicalSemanticGraphMemory/)
+
+* **GaussNav: Gaussian Splatting for Visual Navigation** *cited: 0*<br> *Lei et al., nan* <br> *Habitat, HM3D* <br> Arxiv, 2024.0. [[Code]](https://github.com/XiaohanLei/GaussNav) [[Project]](https://xiaohanlei.github.io/projects/GaussNav/)
+
+* **Renderable Neural Radiance Map for Visual Navigation** *cited: 31*<br> *Kwon et al., Seoul National University* <br> *Habitat, NRNS* <br> CVPR (Highlight), 2023.0. [[Code]](No) [[Project]](https://rllab-snu.github.io/projects/RNR-Map/)
+
+* **Towards Target-Driven Visual Navigation in Indoor Scenes via Generative Imitation Learning** *cited: 37*<br> *Wu et al., Nanjing University.* <br> *nan, nan* <br> RAL, 2021.0. [[Code]](https://github.com/wqynew/Enhanced-NeoNav) [[Project]](nan)
+
+* **Visual Graph Memory with Unsupervised Representation for Visual Navigation** *cited: 48*<br> *Obin Kwon, Seoul National University* <br> *Habitat, Gibson* <br> ICCV, 2021.0. [[Code]](rllab-snu/Visual-Graph-Memory: Official GitHub Repository for paper "Visual Graph Memory with Unsupervised Representation for Visual Navigation", ICCV 2021) [[Project]](https://sites.google.com/view/iccv2021vgm)
+
+* **Lifelong Topological Visual Navigation** *cited: 11*<br> *nan, nan* <br> *nan, nan* <br> RAL, 2022.0. [[Code]](nan) [[Project]](nan)
 
 ### <a name="vln"></a> Vision-Language Navigation
 
-* **Vision-and-Language Navigation: Interpreting Visually-Grounded Navigation Instructions in Real Environments** <br>
-*Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel* <br>
-CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.07280) [[Code]](https://github.com/peteanderson80/Matterport3DSimulator) [[Website]](https://bringmeaspoon.org)
+* **Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions** *cited: 7*<br> *Long et al., Peking（董豪）* <br> *nan, R2R* <br> ICRA, 2024.0. [[Code]](nan) [[Project]](github: https://github.com/LYX0501/DiscussNav)
+
+* **NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation** *cited: 0*<br> *Zhang et al., Peking（王鹤）* <br> *nan, R2R RxR* <br> RSS, 2024.0. [[Code]](nan) [[Project]](https://pku-epic.github.io/NaVid/)
+
+* **NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models** *cited: 65*<br> *Zhou et al., University of Adelaide* <br> *nan, R2R* <br> AAAI, 2024.0. [[Code]](https://github.com/GengzeZhou/NavGPT) [[Project]](nan)
+
+* **Structured Scene Memory for Vision-Language Navigation** *cited: 106*<br> *Wang et al., Beijing Institute of Technology* <br> *nan, nan* <br> CVPR, 2021.0. [[Code]](nan) [[Project]](nan)
+
+* **REVE-CE: Remote Embodied Visual Referring Expression in Continuous Environment** *cited: 12*<br> *nan, nan* <br> *nan, nan* <br> nan, nan. [[Code]](nan) [[Project]](nan)
+
 
 ### <a name="social"></a> Social
 
-* **Semantic Audio-Visual Navigation** <br>
-*Changan Chen, Ziad Al-Halah, Kristen Grauman* <br>
-CVPR, 2021. [[Paper]](https://arxiv.org/pdf/2012.11583.pdf) [[Code]](https://github.com/facebookresearch/sound-spaces/tree/main/ss_baselines/savi) [[Website]](http://vision.cs.utexas.edu/projects/semantic_audio_visual_navigation/)
+* **SACSoN: Scalable Autonomous Control for Social Navigation** *cited: nan*<br> *Hirose et al., University of California* <br> *nan, nan* <br> RAL, 2024. [[Code]](https://github.com/NHirose/SACSoN) [[Project]](https://sites.google.com/view/SACSoN-review)
 
 ### <a name="multiagent"></a> Multi-Agent Tasks
 
-* **One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation** <br>
-*Finn Lukas Busch, Timon Homberger, Jes'us Ortega-Peimbert, Quantao Yang, Olov Andersson* <br>
-arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2409.11764) [[Website]](https://www.finnbusch.com/OneMap/)
+* **Multi-Agent Embodied Visual Semantic Navigation With Scene Prior Knowledge** *cited: 23*<br> *Liu et al., Tsinghua University* <br> *nan, nan* <br> RAL, 2022.0. [[Code]](nan) [[Project]](nan)
 
 * **Multi-Object Navigation in real environments using hybrid policies** <br>
 *Assem Sadek, Guillaume Bono, Boris Chidlovskii, Atilla Baskurt, Christian Wolf* <br>
 ICRA, 2023. [[Paper]](https://arxiv.org/pdf/2401.13800)
 
+* **One Map to Find Them All: Real-time Open-Vocabulary Mapping for Zero-shot Multi-Object Navigation** <br>
+*Finn Lukas Busch, Timon Homberger, Jes'us Ortega-Peimbert, Quantao Yang, Olov Andersson* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/pdf/2409.11764) [[Website]](https://www.finnbusch.com/OneMap/)
+
+
 ### <a name="slam"></a> SLAM
 
-* **Towards Distraction-Robust Active Visual Tracking** <br>
-*Fangwei Zhong, Wenhan Luo, Peng Sun, Tingyun Yan, Yizhou Wang* <br>
-ICML, 2021. [[Paper]](https://arxiv.org/abs/2106.10110) [[Code]](https://github.com/zfw1226/active_tracking_rl/tree/distractor) [[Website]](https://sites.google.com/view/distraction-robust-avt)
+* **Unconstrained Scene Generation with Locally Conditioned Radiance Fields** *cited: 132*<br> *DeVries et al., Apple* <br> *nan, Vizdoom & Replica* <br> ICCV, 2021.0. [[Code]](https://github.com/apple/ml-gsn) [[Project]](https://apple.github.io/ml-gsn/)
+
+* **NICE-SLAM: Neural Implicit Scalable Encoding for SLAM** *cited: 482*<br> *Zhu et al., Zhejiang University* <br> *nan, nan* <br> CVPR, 2022.0. [[Code]](nan) [[Project]](nan)
+
+* **GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting** *cited: 57*<br> *Yan et al., Shanghai AI Lab* <br> *nan, nan* <br> CVPR, 2024.0. [[Code]](nan) [[Project]](nan)
 
 ### <a name="lidar"></a> Lidar
-* **Embodied Question Answering** <br>
-*Abhishek Das, Samyak Datta, Georgia Gkioxari, Stefan Lee, Devi Parikh, Dhruv Batra* <br>
-CVPR, 2018. [[Paper]](https://arxiv.org/abs/1711.11543) [[Code]](https://github.com/facebookresearch/EmbodiedQA) [[Website]](https://embodiedqa.org/)
+* **Robust Lifelong Indoor LiDAR Localization using the Area Graph** *cited: 2*<br> *nan, nan* <br> *nan, nan* <br> RAL, 2023.0. [[Code]](nan) [[Project]](nan)
 
 ## <a name="datasets"></a> Datasets
 
@@ -187,6 +217,16 @@ ICCV, 2019. [[Paper]](https://arxiv.org/abs/1904.01201) [[Code]](https://github.
 
 ## <a name="misc"></a> MISC
 
-* **Gibson Sim2Real Challenge** <br>
-CVPR, 2020. [[website]](http://svl.stanford.edu/igibson/challenge.html)
+* **Awesome Enbodied Vision** <br>
+[[Project]](https://github.com/ChanganVR/awesome-embodied-vision)
+
+* **Awesome LLM EN** <br>
+[[Project]](https://github.com/Rongtao-Xu/Awesome-LLM-EN)
+
+* **Awesome Robot Social Navigation** <br>
+[[Project]](https://github.com/Shuijing725/awesome-robot-social-navigation)
+
+* **Awesome Vision and Language Navigation** <br>
+[[Project]](https://github.com/iminolee/Awesome-Vision-and-Language-Navigation)
+
 
